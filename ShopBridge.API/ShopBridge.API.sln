@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopBridge.API", "ShopBridge.API\ShopBridge.API.csproj", "{29BA45FC-1686-4D61-AF71-7555DF8E4511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29BA45FC-1686-4D61-AF71-7555DF8E4511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29BA45FC-1686-4D61-AF71-7555DF8E4511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29BA45FC-1686-4D61-AF71-7555DF8E4511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29BA45FC-1686-4D61-AF71-7555DF8E4511}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {721ECCE1-01FD-40AF-8169-3B7366F43AF3}
+	EndGlobalSection
+EndGlobal
